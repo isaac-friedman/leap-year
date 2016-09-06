@@ -1,0 +1,1 @@
+I was asked to write a program to print the next 20 leap years as part of a pre-screening for an interview as a software engineer. This is what I did, and I thought it would be cool to do the same thing in a few different ways and time them all.
